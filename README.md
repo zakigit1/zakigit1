@@ -1,4 +1,4 @@
-# Mohammed Ilyes Zakaria BOUSBAA
+# Zakaria - Laravel Developer
 
 ## About Me
 I'm a Backend Developer specializing in PHP and Laravel. Passionate about building efficient and scalable web applications.
@@ -11,7 +11,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 - RESTful APIs
 
 ## Projects
-- [Project 1](https://github.com/zakariadev/project1): Description of project 1.
+- ZAKA-eCommerce - A comprehensive multi-vendor e-commerce web app [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
 - [Project 2](https://github.com/zakariadev/project2): Description of project 2.
 
 ## Contact
