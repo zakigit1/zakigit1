@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mohammed Ilyes Zakaria BOUSBAA
 
-<!--
-**zakigit1/zakigit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Backend Developer specializing in PHP and Laravel. Passionate about building efficient and scalable web applications.
 
-Here are some ideas to get you started:
+## Skills
+- PHP
+- Laravel
+- JavaScript
+- MySQL
+- RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](https://github.com/zakariadev/project1): Description of project 1.
+- [Project 2](https://github.com/zakariadev/project2): Description of project 2.
+
+## Contact
+- Email: zakaria@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zakaria/)
