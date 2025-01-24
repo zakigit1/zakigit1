@@ -11,7 +11,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 - RESTful APIs
 
 ## Projects
-- ZAKA-eCommerce - An all-inclusive platform for multi-vendor e-commerce, designed to streamline and enhance online shopping experiences. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
+- ZAKA-eCommerce -A robust multi-vendor e-commerce platform built with Laravel. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
 - [Project 2](https://github.com/zakariadev/project2): Description of project 2.
 
 ## Contact
