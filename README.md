@@ -33,7 +33,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 - **ZAKA-eCommerce** - A robust multi-vendor e-commerce platform built with Laravel. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
 - **StockVisualizer** - An app to visualize historical stock market data. [Link to Repo]
 
-🌱 **Always Learning**: I'm continuously expanding my knowledge and exploring new technologies in the web development space.
+🌱 **Always Learning**: I'm continuously expanding my knowledge and exploring new technologies in the backend development space.
 
 💡 **Beyond Laravel**: While my primary focus is Laravel, I've also dabbled in JavaScript, PostgreSQL, and backend development.
 
