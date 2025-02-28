@@ -36,8 +36,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 🌱 **Always Learning**: I'm continuously expanding my knowledge and exploring new technologies in the backend development space.
 
 💡 **Beyond Laravel**: While my primary focus is Laravel, I've also dabbled in JavaScript, PostgreSQL, and backend development.
-
-💫 **Portfolio**: Check out my [Portfolio](#).
+<!-- 💫 **Portfolio**: Check out my [Portfolio](#). -->
 
 🤝 **Let's Connect!** 
 - [Email](mailto:zakariaservices0@gmail.com)
