@@ -31,7 +31,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 
 🚀 **Featured Projects**:
 - **ZAKA-eCommerce** - A robust multi-vendor e-commerce platform built with Laravel. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
-- **Chat Application API** - A scalable and efficient RESTful API for real-time chat applications, built using Laravel and Sanctum. [Link to Repo](https://github.com/zakigit1/Chat-App-Laravel-API) 
+- **Chat Application API** - A scalable and efficient RESTful API for real-time chat applications. [Link to Repo](https://github.com/zakigit1/Chat-App-Laravel-API) 
 
 🌱 **Always Learning**: I'm continuously expanding my knowledge and exploring new technologies in the backend development space.
 
