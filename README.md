@@ -39,5 +39,5 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 <!-- 💫 **Portfolio**: Check out my [Portfolio](#). -->
 
 🤝 **Let's Connect!** 
-- [Email](mailto:zakariaservices0@gmail.com)
+- [Email](mailto:mohammedilyeszakaria.bousbaa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zakaria/)
