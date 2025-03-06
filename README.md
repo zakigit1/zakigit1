@@ -23,7 +23,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about buildi
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zakaria/)
 -->
 
-# Zakaria - Laravel Developer
+# 👨‍💻 Zakaria - Laravel Developer
 
 👋 Hello! I'm a passionate Laravel developer with a strong interest in crafting efficient and scalable web applications.
 
