@@ -1,45 +1,22 @@
-<!--
-# Zakaria - Laravel Developer
+# 👨‍💻 Zakaria Bousbaa – Laravel Backend Developer  
 
-## About Me
-I'm a Backend Developer specializing in PHP and Laravel. Passionate about building efficient and scalable web applications.
+👋 Hi there! I'm a **Laravel Developer** passionate about **building scalable, secure, and high-performance web applications**. I specialize in **backend development**, crafting robust APIs, and integrating efficient database solutions.  
 
-## Skills
-- PHP
-- Laravel
-- JavaScript
-- MySQL
-- RESTful APIs
-- AJAX 
-- Jquery
-- PostgreSQL
+## 🚀 **What I Do**  
+✨ **Backend Development** – Clean, maintainable, and scalable Laravel applications  
+⚡ **API Development** – RESTful APIs with authentication & real-time capabilities  
+💳 **Payment Integration** – Secure third-party payment gateways  
+📊 **Database Management** – MySQL & PostgreSQL optimization  
+🔹 **Frontend Integration** – Converting templates into fully functional web applications  
 
-## Projects
-- ZAKA-eCommerce - A robust multi-vendor e-commerce platform built with Laravel. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
-- [Project 2](https://github.com/zakariadev/project2): Description of project 2.
+## 🌟 **Featured Projects**  
+- **[ZAKA eCommerce](https://github.com/zakigit1/ZAKA-eCommerce)** – A **multi-vendor** e-commerce platform with **role-based dashboards**, **real-time chat**, **secure payment integration**, and **order & withdrawal management**.  
+- **[Chat API (Laravel)](https://github.com/zakigit1/Chat-App-Laravel-API)** – A **real-time messaging backend** with **authentication, WebSocket support, and RESTful API structure**.  
 
-## Contact
-- Email: zakaria@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zakaria/)
--->
+## 📚 **Always Learning**  
+I'm constantly exploring **new technologies and best practices** in **Laravel, PHP, and backend architecture** to enhance my skill set.  
 
-# 👨‍💻 Zakaria - Laravel Developer
-
-👋 Hello! I'm a passionate Laravel developer with a strong interest in crafting efficient and scalable web applications.
-
-✨ **My Focus**: Building high-quality web experiences using Laravel and PHP.
-
-🚀 **Featured Projects**:
-- **ZAKA-eCommerce** - A robust multi-vendor e-commerce platform built with Laravel. [Link to repo](https://github.com/zakigit1/ZAKA-eCommerce)
-- **Chat Application API** - A scalable and efficient RESTful API for real-time chat applications. [Link to Repo](https://github.com/zakigit1/Chat-App-Laravel-API) 
-
-🌱 **Always Learning**: I'm continuously expanding my knowledge and exploring new technologies in the backend development space.
-
-💡 **Beyond Laravel**: While my primary focus is Laravel, I've also dabbled in JavaScript, PostgreSQL, and backend development.
-<!-- 💫 **Portfolio**: Check out my [Portfolio](#). -->
-
-🤝 **Let's Connect!** 
-| [Email](mailto:mohammedilyeszakaria.bousbaa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammedb1/) |
-|-------------------------------------------------------|---------------------------------------------------|
-
+## 🤝 **Let's Connect!**  
+📩 **Email** – [mohammedilyeszakaria.bousbaa@gmail.com](mailto:mohammedilyeszakaria.bousbaa@gmail.com)  
+🔗 **LinkedIn** – [linkedin.com/in/mohammedb1](https://www.linkedin.com/in/mohammedb1/)  
 
