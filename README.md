@@ -14,7 +14,7 @@
 - **[Chat API (Laravel)](https://github.com/zakigit1/Chat-App-Laravel-API)** – A **real-time messaging backend** with **authentication, WebSocket support, and RESTful API structure**.  
 
 ## 📚 **Always Learning**  
-I'm constantly exploring **new technologies and best practices** in **Laravel, PHP, and backend architecture** to enhance my skill set.  
+I'm constantly exploring **new technologies and best practices** in **Laravel, PHP,  backend architecture, and especially AI for now** to enhance my skill set.  
 
 ## 🤝 **Let's Connect!**  
 📩 **Email** – [mohammedilyeszakaria.bousbaa@gmail.com](mailto:mohammedilyeszakaria.bousbaa@gmail.com)  
