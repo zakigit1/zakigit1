@@ -20,3 +20,5 @@ I'm constantly exploring **new technologies and best practices** in **Laravel, P
 📩 **Email** – [mohammedilyeszakaria.bousbaa@gmail.com](mailto:mohammedilyeszakaria.bousbaa@gmail.com)  
 🔗 **LinkedIn** – [linkedin.com/in/mohammedb1](https://www.linkedin.com/in/mohammedb1/)  
 
+📑 **Resume link** – [View Resume](https://drive.google.com/file/d/1-BLmeqTE4GJbUJFMza5bZrcjzy_KxHM5/view)  
+
