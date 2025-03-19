@@ -17,8 +17,26 @@
 I'm constantly exploring **new technologies and best practices** in **Laravel, PHP,  backend architecture, and especially AI for now** to enhance my skill set.  
 
 ## 🤝 **Let's Connect!**  
+<div align="center"> 
+  <a href="mailto:mohammedilyeszakaria.bousbaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    
+  <a href="https://www.linkedin.com/in/mohammedb1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1-BLmeqTE4GJbUJFMza5bZrcjzy_KxHM5/view" target="_blank">
+     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=whit" target="_blank" /> 
+  </a>
+
+  
+</div>
+
+<!--
 📩 **Email** – [mohammedilyeszakaria.bousbaa@gmail.com](mailto:mohammedilyeszakaria.bousbaa@gmail.com)  
 🔗 **LinkedIn** – [linkedin.com/in/mohammedb1](https://www.linkedin.com/in/mohammedb1/)  
 
 📑 **Resume link** – [View Resume](https://drive.google.com/file/d/1-BLmeqTE4GJbUJFMza5bZrcjzy_KxHM5/view)  
 
+-->
